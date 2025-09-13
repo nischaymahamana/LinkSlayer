@@ -1,6 +1,6 @@
 # LinkSlayer – Smart URL Shortener with QR Code & Analytics
 
-[Live App](https://link-slayer.vercel.app/)
+[Live App](https://linkslayer.vercel.app/)
 
 LinkSlayer is a fullstack URL shortener built with React, Node.js, and MongoDB that lets users generate short, shareable links along with auto-generated QR codes. It also provides visual analytics such as device type, click count, and location using an intuitive dashboard.
 
