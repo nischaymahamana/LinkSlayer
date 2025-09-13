@@ -1,7 +1,7 @@
 import axios from "axios";
 import authService from "./auth";
 
-const BASE_URL = "http://localhost:5000/api/url"
+const BASE_URL = "https://linkslayer.onrender.com/api/url"
 
 const createShortUrl = async (fullUrl) => {
   const token = authService.getAuthToken();
